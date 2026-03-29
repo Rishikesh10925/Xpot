@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#B8C4FF</color>
+    <color name="onPrimary">#002984</color>
+    <color name="primaryContainer">#1A3FAF</color>
+    <color name="onPrimaryContainer">#DEE4FF</color>
+
+    <color name="secondary">#C1CCE6</color>
+    <color name="onSecondary">#253048</color>
+    <color name="secondaryContainer">#3A465F</color>
+    <color name="onSecondaryContainer">#DDE8FF</color>
+
+    <color name="tertiary">#CFBFFF</color>
+    <color name="onTertiary">#382264</color>
+    <color name="tertiaryContainer">#4E397B</color>
+    <color name="onTertiaryContainer">#EADFFF</color>
+
+    <color name="error">#FFB4AB</color>
+    <color name="onError">#690005</color>
+    <color name="errorContainer">#93000A</color>
+    <color name="onErrorContainer">#FFDAD6</color>
+
+    <color name="background">#10131A</color>
+    <color name="onBackground">#E3E5EE</color>
+    <color name="surface">#171A22</color>
+    <color name="onSurface">#E3E5EE</color>
+    <color name="surfaceVariant">#404754</color>
+    <color name="onSurfaceVariant">#C2C8D8</color>
+    <color name="outline">#8C93A4</color>
+    <color name="outlineVariant">#444B5A</color>
+
+    <color name="available">#49D68A</color>
+    <color name="availableContainer">#0F3A26</color>
+    <color name="full">#FF8A83</color>
+    <color name="fullContainer">#4E1F1D</color>
+    <color name="priceAccent">#B8C4FF</color>
+    <color name="summaryCardStart">#5E7BFF</color>
+    <color name="summaryCardEnd">#2F5BFF</color>
+</resources>
+

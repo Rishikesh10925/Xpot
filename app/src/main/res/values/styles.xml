@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearance.Xpot.Headline" parent="TextAppearance.Material3.HeadlineMedium">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/onSurface</item>
+    </style>
+
+    <style name="TextAppearance.Xpot.Title" parent="TextAppearance.Material3.TitleMedium">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/onSurface</item>
+    </style>
+
+    <style name="TextAppearance.Xpot.Body" parent="TextAppearance.Material3.BodyMedium">
+        <item name="android:textColor">@color/onSurfaceVariant</item>
+    </style>
+
+    <style name="Widget.Xpot.SummaryCard" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardCornerRadius">@dimen/radius_lg</item>
+        <item name="cardElevation">@dimen/elevation_card</item>
+        <item name="strokeWidth">0dp</item>
+    </style>
+
+    <style name="Widget.Xpot.StatusBadge" parent="Widget.Material3.CardView.Filled">
+        <item name="cardCornerRadius">@dimen/radius_md</item>
+        <item name="cardElevation">0dp</item>
+    </style>
+
+    <style name="Widget.Xpot.Fab" parent="Widget.Material3.FloatingActionButton.Primary">
+        <item name="shapeAppearance">@style/ShapeAppearance.Xpot.MediumComponent</item>
+    </style>
+</resources>
+
